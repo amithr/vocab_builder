@@ -7,6 +7,7 @@ name = "pypi"
 djangorestframework = "*"
 django = "*"
 django-cors-headers = "*"
+django-language-field = "*"
 
 [dev-packages]
 
